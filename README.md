@@ -1,4 +1,4 @@
 pay_server
 ==========
 
-support pay for game server
+1 support pay for game server
